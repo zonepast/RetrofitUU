@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AFF41\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.1_86342ecc5a408f676641ecf7a3b56d63a066d326\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_20987bf1782584580aa45fa5a215a86698484e07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="92276c3e6672facd91b6fa52c90095321fc6ecd8">
+        <dex dex="C:\Users\AFF41\AndroidStudioProjects\F Android Proj\Utsavtest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_74b0aa90804ca2c7a3daa29726baf5dc30f7d44e\classes.dex" />
+    </item>
+
+</items>
